@@ -20,14 +20,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
 
-<br/>
-
-<a href="https://github.com/Lacorteee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lacorteee&show_icons=true&theme=radical" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 <a href="mailto:gabriellacorte@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabriellacorte@protonmail.com-blue?style=flat-square&logo=gmail"></a>
