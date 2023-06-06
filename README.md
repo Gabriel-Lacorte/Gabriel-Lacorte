@@ -1,14 +1,16 @@
-<h2> Hey👋</h2>
-[Gmail Badge](https://img.shields.io/badge/-lacortedev@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)
+### Hey 👋
+![Email](https://img.shields.io/badge/Email-lacortedev@proton.me-blue?style=flat-square&logo=gmail)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<p>
-<strong>Hello</strong>, I'm Gabriel, a front-end developer with a passion for technology. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### About Me
+
+**Hello**, I'm Gabriel, a front-end developer with a passion for technology. 
 I have hands-on experience in programming languages like Python, C++, and JavaScript, 
 and am always looking for opportunities to further improve my skills by exploring new languages and frameworks. 
-When I'm not coding, I'm often playing my favorite video games, <strong>CS:GO</strong> and <strong>Valorant</strong>.
-</p>
+When I'm not coding, I'm often playing my favorite video games, **CS:GO** and **Valorant**.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,12 +34,6 @@ When I'm not coding, I'm often playing my favorite video games, <strong>CS:GO</s
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
 
-<a href="https://github.com/Gabriel-Lacorte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Lacorte&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lacorte&theme=buefy&layout=compact" />
-<a>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3> 🤝🏻 &nbsp;Contact Me </h3>
-
-<a href="mailto:gabriellacorte@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabriellacorte@protonmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+  ![github stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Lacorte&show_icons=true)
