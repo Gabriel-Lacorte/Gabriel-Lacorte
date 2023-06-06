@@ -5,7 +5,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###📚 About Me
+### 📚 About Me
 
 **Hello**, I'm Gabriel, a front-end developer with a passion for technology. 
 I have hands-on experience in programming languages like Python, C++, and JavaScript, 
