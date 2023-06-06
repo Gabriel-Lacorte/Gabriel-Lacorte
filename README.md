@@ -1,3 +1,5 @@
+
+
 ### Hey 👋
 ![Email](https://img.shields.io/badge/Email-lacortedev@proton.me-blue?style=flat-square&logo=gmail)
 
@@ -33,7 +35,7 @@ When I'm not coding, I'm often playing my favorite video games, **CS:GO** and **
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Lacorte&show_icons=true)
+  <img align="center" alt="GIF" src="https://github.com/Gabriel-Lacorte/Gabriel-Lacorte/blob/main/fatcat.gif" />
