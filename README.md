@@ -7,7 +7,7 @@
 
 ### 📚 About Me
 
-**Hello**, I'm Gabriel, a front-end developer with a passion for technology. 
+**Hello**, I'm Gabriel, a Data Scientist with a passion for technology. 
 I have hands-on experience in programming languages like Python, C++, and JavaScript, 
 and am always looking for opportunities to further improve my skills by exploring new languages and frameworks. 
 When I'm not coding, I'm often playing my favorite video games, **CS:GO** and **Valorant**.
