@@ -7,10 +7,10 @@
 
 ### 📚 About Me
 
-**Hello**, I'm Gabriel, a Data Scientist with a passion for technology. 
-I have hands-on experience in programming languages like Python, C++, and JavaScript, 
-and am always looking for opportunities to further improve my skills by exploring new languages and frameworks. 
-When I'm not coding, I'm often playing my favorite video games, **CS:GO** and **Valorant**.
+**Hello**! I'm Gabriel Lacorte, 
+a 13-year-old backend developer with 2 years of programming experience. 
+Currently, my main programming language is Python, 
+and my focus is on learning Data Science and Web Development.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
