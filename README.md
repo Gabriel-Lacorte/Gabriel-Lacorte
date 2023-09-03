@@ -10,7 +10,7 @@
 **Hello**! I'm Gabriel Lacorte, 
 a backend developer with 2 years of programming experience. 
 Currently, my main programming language is Python and C#, 
-and my focus is on learning Data Science and Game dev.
+and my focus is on learning Cyber Security.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,10 +31,5 @@ and my focus is on learning Data Science and Game dev.
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  <img align="center" alt="GIF" src="https://github.com/Gabriel-Lacorte/Gabriel-Lacorte/blob/main/fatcat.gif" />
