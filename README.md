@@ -18,6 +18,7 @@ and my focus is on learning Cyber Security.
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=C%2B%2B&logoColor=007396)
   ![C++](https://img.shields.io/badge/C++-333333?style=flat-square&logo=C%2B%2B&logoColor=007396)
   ![C#](https://img.shields.io/badge/Csharp-333333?style=flat-square&logo=C%2B%2B&logoColor=007396)
 - 🌐 &nbsp;
