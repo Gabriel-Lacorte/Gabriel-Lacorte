@@ -1,7 +1,7 @@
 
 
 ### Hey 👋
-![Email](https://img.shields.io/badge/Email-lacortedev@proton.me-blue?style=flat-square&logo=gmail)
+![Email](https://img.shields.io/badge/Email-gabriellacorte@protonmail.com-blue?style=flat-square&logo=gmail)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -9,8 +9,8 @@
 
 **Hello**! I'm Gabriel Lacorte, 
 a backend developer with 2 years of programming experience. 
-Currently, my main programming language is Python and C#, 
-and my focus is on learning Cyber Security.
+Currently, my main programming language is Python and C/C++ 
+and my focus is on learning Cyber Sec.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
