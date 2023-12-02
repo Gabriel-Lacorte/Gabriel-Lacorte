@@ -3,7 +3,7 @@
 
 ## 📚 About Me   
 
-**Hello**! I'm Gabriel, a backend develope passionate about low-level.
+**Hello**! I'm Gabriel, a backend developer passionate about low-level.
 
 ## 🛠 Skills
 - 💻 &nbsp;
