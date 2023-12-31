@@ -1,6 +1,7 @@
+syntax on
+filetype on
+filetype plugin on
+filetype indent on
 set number
-set relativenumber
 set tabstop=4
-set autoindent
-set mouse=a
-colorscheme slate
+colorscheme molokai
