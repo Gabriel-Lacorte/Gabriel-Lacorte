@@ -1,0 +1,42 @@
+{
+    "workbench.layoutControl.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Min Dark",
+
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.6,
+    "editor.tabSize": 4,
+
+    "prettier.tabWidth": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "files.eol": "\n",
+    "editor.minimap.enabled": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "frame": false
+    },
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+
+    "workbench.editor.empty.hint": "hidden",
+    "explorer.confirmDelete": false,
+
+    "cSpell.language": "en,pt-BR",
+    "cSpell.userWords": ["autoflush"],
+
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
