@@ -3,7 +3,7 @@
 
 ## 📚 About Me   
 
-**Hello**! I'm Gabriel, a backend developer passionate about low-level.
+**Hello**! I'm Gabriel, a backend developer passionate about security and low-level programming. My programming focus is on C++, Python, and JavaScript, and im currently studying Rust to further expand my skills. 
 
 ## 🛠 Skills
 - 💻 &nbsp;
@@ -11,7 +11,6 @@
   ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=C%2B%2B&logoColor=007396)
   ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=C%2B%2B&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 - 👀 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3&logoColor=1572B6)
