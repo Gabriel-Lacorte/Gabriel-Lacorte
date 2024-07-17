@@ -9,8 +9,8 @@ In my spare time I like to study network pentesting and low-level programming
 
 ## 🛠 Skills
 - 💻 &nbsp;
+  ![Go](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-  ![Python](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
   ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=C%2B%2B&logoColor=007396)
   ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=C%2B%2B&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
@@ -21,10 +21,10 @@ In my spare time I like to study network pentesting and low-level programming
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-Figma-555555?style=flat&logo=figma)
-  ![GitHub](https://img.shields.io/badge/-Docker-555555?style=flat&logo=docker)
-  ![GitHub](https://img.shields.io/badge/-Linux-555555?style=flat&logo=linux)
+  ![Figma](https://img.shields.io/badge/-Figma-555555?style=flat&logo=figma)
+  ![Docker](https://img.shields.io/badge/-Docker-555555?style=flat&logo=docker)
+  ![Linux](https://img.shields.io/badge/-Linux-555555?style=flat&logo=linux)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-555555?style=flat&logo=pycharm-ide&logoColor=2C2255)
+  ![Visual Studio Code](https://img.shields.io/badge/-VSCode-555555?style=flat&logo=vscode&logoColor=007ACC)
+  ![NVim](https://img.shields.io/badge/-NeoVim-555555?style=flat&logo=neovim&logoColor=2C2255)
   
