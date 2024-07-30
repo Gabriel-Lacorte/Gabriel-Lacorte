@@ -3,7 +3,7 @@
 
 ## 📚 About Me   
 
-👋 Hi, I'm Gabriel Lacorte, a backend developer in Python and GO. 
+👋 Hi, I'm Gabriel Lacorte, a backend developer. 
 
 In my spare time I like to study network pentesting and low-level programming
 
