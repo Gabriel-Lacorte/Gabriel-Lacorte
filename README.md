@@ -1,13 +1,13 @@
 ### Hey 👋    
-![Email](https://img.shields.io/badge/Email-gabriellacorte@airmail.cc-blue?style=flat-square&logo=gmail)
+![Email](https://img.shields.io/badge/Email-gabriellacorte@posteo.com-blue?style=flat-square&logo=mail)
 
-## 📚 About Me   
+### 📚 About Me   
 
 I'm Gabriel Lacorte, a backend developer. 
 
 In my spare time I like to study network pentesting and low-level programming
 
-## 🛠 Skills
+### 🛠 Skills
 - 💻 &nbsp;
   ![Go](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
@@ -28,3 +28,5 @@ In my spare time I like to study network pentesting and low-level programming
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-555555?style=flat&logo=vscode&logoColor=007ACC)
   ![NVim](https://img.shields.io/badge/-NeoVim-555555?style=flat&logo=neovim&logoColor=2C2255)
   
+### 📃 Blog Articles
+- [RansomHub Ransomware](https://www.lacorte.city/blog/02-ransomhub-ransomware)
