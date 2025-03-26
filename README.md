@@ -5,8 +5,6 @@
 
 I'm Gabriel Lacorte, a backend developer. 
 
-In my spare time I like to study network pentesting and low-level programming
-
 ### 🛠 Skills
 - 💻 &nbsp;
   ![Go](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
