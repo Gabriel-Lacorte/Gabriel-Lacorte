@@ -2,44 +2,83 @@
     "workbench.layoutControl.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Min Dark",
-
-    "editor.formatOnSave": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.empty.hint": "hidden",
+    
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.6,
-    "editor.tabSize": 4,
-
-    "prettier.tabWidth": 4,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-
-    "editor.rulers": [80, 120],
-    "workbench.startupEditor": "newUntitledFile",
-
-    "editor.renderLineHighlight": "gutter",
     "editor.fontLigatures": true,
-    "workbench.editor.labelFormat": "short",
-    "explorer.compactFolders": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
-    "files.eol": "\n",
     "editor.minimap.enabled": false,
-    "apc.electron": {
-        "titleBarStyle": "hiddenInset",
-        "frame": false
-    },
-    "window.menuBarVisibility": "compact",
-    "window.commandCenter": false,
 
-    "workbench.editor.empty.hint": "hidden",
+    "files.eol": "\n",
+    "explorer.compactFolders": false,
     "explorer.confirmDelete": false,
-
-    "cSpell.language": "en,pt-BR",
-    "cSpell.userWords": ["autoflush"],
-
     "explorer.confirmPasteNative": false,
     "explorer.confirmDragAndDrop": false,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "files.associations": {
-        "*.js": "javascriptreact"
-    }
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/build": true,
+        "**/out": true,
+        "**/__pycache__": true,
+        "**/*.egg-info": true
+    },
+    "search.exclude": {
+        "**/build": true,
+        "**/out": true
+    },
+
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "git.openRepositoryInParentFolders": "never",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+
+    "C_Cpp.intelliSenseEngine": "disabled",
+
+    "clangd.path": "/usr/bin/clangd",
+    "clangd.arguments": [
+        "--background-index",
+        "--limit-results=120",
+        "--clang-tidy",
+        "--completion-style=detailed",
+        "--header-insertion=never",
+        "--pch-storage=memory",
+        "--all-scopes-completion"
+    ],
+
+    "files.watcherExclude": {
+        "**/build/**": true,
+        "**/.git/**": true,
+        "**/node_modules/**": true
+    },
+
 }
