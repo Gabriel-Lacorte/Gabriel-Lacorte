@@ -10,4 +10,4 @@ C / C++ / RUST / GO / PYTHON / REST / DOCKER / CI/CD / AD / AZURE / AWS
 
 #
 
-[www.lacort.ee](https://www.lacort.ee)
+[lacort.ee](https://lacort.ee)
