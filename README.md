@@ -10,4 +10,4 @@ C / C++ / RUST / GO / PYTHON / REST / DOCKER / CI/CD / AD / AZURE / AWS
 
 #
 
-[www.lacorte.city](https://www.lacorte.city)
+[www.lacorte.city](https://www.lacort.ee)
